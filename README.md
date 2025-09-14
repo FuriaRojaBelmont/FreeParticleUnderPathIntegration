@@ -1,3 +1,3 @@
-This PDF file contains my second modular project from my Bachelos in Physics at UNiversity of Guadalajara.
+This PDF file contains my second modular project from my Bachelor in Physics at University of Guadalajara.
 
 I presented it in November 2024 at the Physics Department conference room.
